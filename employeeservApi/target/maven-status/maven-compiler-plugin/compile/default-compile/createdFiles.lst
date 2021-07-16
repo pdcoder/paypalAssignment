@@ -1,0 +1,7 @@
+com/paypal/bfs/test/employeeserv/api/repository/EmployeeRepository.class
+com/paypal/bfs/test/employeeserv/api/model/Employeee.class
+com/paypal/bfs/test/employeeserv/api/repository/AddressRepository.class
+com/paypal/bfs/test/employeeserv/api/exceptions/ValidationException.class
+com/paypal/bfs/test/employeeserv/api/model/Address.class
+com/paypal/bfs/test/employeeserv/api/EmployeeResource.class
+com/paypal/bfs/test/employeeserv/api/model/Employee.class
