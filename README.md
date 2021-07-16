@@ -9,6 +9,7 @@ There are three modules in this application
 	- `jsonschema2pojo-maven-plugin` is being used to create `Employee POJO` from json file.
 	- `EmployeeResource.java` is the interface for CRUD operations on `Employee` resource.
 		- GET `/v1/bfs/employees/{id}` endpoint is defined to fetch the resource.
+		- CREATE `/v1/bfs/employees/create` endpoint is defined to create the resource.
 - employeeservImplementation - This module contains the implementation for the rest endpoints.
 	- `EmployeeResourceImpl.java` implements the `EmployeeResource` interface.
 - employeeservFunctionalTests - This module would have the functional tests.
